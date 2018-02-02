@@ -1,6 +1,8 @@
 Datashader
 ==========
 
+(Outdated; see `datashader.org`_)
+
 Datashader is a graphics pipeline system for creating meaningful
 representations of large datasets quickly and flexibly. Datashader
 breaks the creation of images into a series of explicit steps that
@@ -13,6 +15,7 @@ compiled to machine code using `Numba`_, datashader makes it practical
 to work with extremely large datasets even on standard hardware.
 
 .. _`Numba`: http://numba.pydata.org
+.. _`Datashader.org`: http://datashader.org
 
 To make it concrete, here's an example of what datashader code looks like:
 
